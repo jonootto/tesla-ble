@@ -219,7 +219,7 @@ extern const pb_msgdesc_t UniversalMessage_RoutableMessage_msg;
 #define UNIVERSALMESSAGE_UNIVERSAL_MESSAGE_PB_H_MAX_SIZE UniversalMessage_RoutableMessage_size
 #define UniversalMessage_Destination_size        18
 #define UniversalMessage_MessageStatus_size      4
-#define UniversalMessage_RoutableMessage_size    536
+#define UniversalMessage_RoutableMessage_size    544
 #define UniversalMessage_SessionInfoRequest_size 101
 
 #ifdef __cplusplus
